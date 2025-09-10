@@ -1,7 +1,7 @@
 # AuraAssistant 🎙️🤖
 
 Aura is a **voice-activated personal AI assistant** powered by **Whisper (speech-to-text)**, **Mistral via OpenRouter (chat model)**, and **pyttsx3 (text-to-speech)**.  
-It can tell you the time, date, open websites, and answer general queries using an LLM.  
+It can tell you the time, date, open websites, and answer general queries using an LLM.  (Also its the updated version,took 10+ months)
 
 ---
 
@@ -86,7 +86,7 @@ Run the assistant:
 python aura.py
 ```
 
-1. Aura greets you with a startup message.  
+1. Aura greets you with a startup message.  (Stuff works like damn)
 2. Say **"Hi"**, **"Hey"**, or **"Hello"** to activate.  
 3. Ask questions or give commands like:  
    - "What’s the time?"  
@@ -110,10 +110,10 @@ aura-assistant/
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Improvements (I think?)
 - Add more web integrations (Google, Spotify, Wikipedia).  
 - Add task management and reminders.  
-- Improve wake-word detection (using VAD).  
+- Improve voice detection.  
 
 ---
 
