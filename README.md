@@ -11,7 +11,7 @@ It can tell you the time, date, open websites, and answer general queries using 
 - 🔊 **Text-to-Speech**: Responds with natural voice using `pyttsx3`.  
 - ⏰ **Time & Date** queries.  
 - 🌐 **Web Commands**: Opens YouTube or other sites.  
-- 📴 **Graceful Shutdown** with "stop" or "bye".  
+- 📴 **Graceful Shutdown** with "stop" or "bye".  (or force shutdown via CTRL+C)
 
 ---
 
