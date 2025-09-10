@@ -125,4 +125,7 @@ MIT License. Free to use and modify.
 ## Feedback
 
 constructive feedback is appreciated i.e what to improve/add/etc
-still in development
+
+---
+
+###STILL IN DEVELOPMENT
